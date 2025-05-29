@@ -32,9 +32,9 @@ python tools/train.py configs/voc/sparse-rcnn_r50_fpn_1x_coco.py --work-dir work
 ### 使用现有模型推理
 1. 模型下载
 
-Sparse-RCNN:https://drive.google.com/file/d/1ce5pslacvBQ_oVbTIh6fg2D1amTq8bEW/view?usp=drive_link
+Sparse-RCNN(mAP_50:0.612):https://drive.google.com/file/d/1ce5pslacvBQ_oVbTIh6fg2D1amTq8bEW/view?usp=drive_link
 
-Mask-RCNN:https://drive.google.com/file/d/1HUwHLG5mG13xu28wAvqiH3jLdLEq7h30/view?usp=drive_link
+Mask-RCNN(mAP_50:0.706):https://drive.google.com/file/d/1HUwHLG5mG13xu28wAvqiH3jLdLEq7h30/view?usp=drive_link
 
 2. 推理
 
